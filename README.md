@@ -19,7 +19,7 @@
 - 🎓 I'm studying **Artificial Intelligence Engineering** at **ESCOM IPN**.
 - 💼 I'm a **developer technician**, **problem solver**, and **project leader**.
 - 💬 I'm passionate about building solutions that combine **AI**, **software engineering**, and **community impact**.
-- 📫 Reach me at: `mauroencisodev@gmail.com`
+- 📫 Reach me at: `maualf.enciso@gmail.com`
 
 ---
 
